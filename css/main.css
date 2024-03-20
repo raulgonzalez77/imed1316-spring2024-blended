@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+h1, h2 {
+    color: purple;
+}
