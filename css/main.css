@@ -25,10 +25,12 @@ h1, h2 {
     font-family: "Protest Riot", sans-serif;
 }
 
-.material-symbols-outlined {
+.material-symbols-outlined, 
+.material-symbols-outlined a {
     font-size: 60px;
     color: var(--dominantColor) !important;
     position: relative;
     top: 0px;
+    text-decoration: none;
 }
 
