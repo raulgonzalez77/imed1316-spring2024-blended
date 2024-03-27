@@ -6,26 +6,30 @@ body {
     background-color: #ffffff;
 }
 
-h1, h2 {
-    color: var(--dominantColor) !important;
+h1,
+h2 {
+    color: var(--accentColor) !important;
 }
 
 .top-logo {
-   height: auto; 
-   font-weight: bold;
-   color: var(--dominantColor) !important;
-   font-size: 55px;
-   padding-top: 40px;
-   padding-bottom: 0px;
-   background-color: #ffffff;
+    height: auto;
+    font-weight: bold;
+    color: var(--dominantColor) !important;
+    font-size: 55px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    background-color: #ffffff;
 }
 
 #top-logo-small {
+
     font-size: 29px;
-    font-family: "Protest Riot", sans-serif;
+    font-family: "Protest Revolution", sans-serif;
+    color: var(--dominantColor) !important;
+
 }
 
-.material-symbols-outlined, 
+.material-symbols-outlined,
 .material-symbols-outlined a {
     font-size: 60px;
     color: var(--dominantColor) !important;
@@ -33,4 +37,3 @@ h1, h2 {
     top: 0px;
     text-decoration: none;
 }
-
