@@ -37,3 +37,7 @@ h2 {
     top: 0px;
     text-decoration: none;
 }
+
+.navbar {
+   background-color: var(--secondaryColor) !important; 
+}
